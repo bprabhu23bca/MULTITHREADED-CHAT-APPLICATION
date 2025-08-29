@@ -90,3 +90,9 @@ The project not only allowed me to practice coding but also helped me understand
 In the future, I can extend this project with features such as private messaging, authentication, file transfers, and even GUI-based chat windows using JavaFX or Swing. Overall, this project was a valuable experience in learning how servers and clients interact over a network and how multithreading ensures scalability in communication systems.
 
 *OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/bc44afa5-ea8c-4510-89ba-ec538d4bdeee)
+
+![Image](https://github.com/user-attachments/assets/4ff322d1-c96a-4540-9f75-3b1a7aec3fa5)
+
+![Image](https://github.com/user-attachments/assets/41cb6d4c-cd9a-46eb-9bb7-68e7d03eec7b)
